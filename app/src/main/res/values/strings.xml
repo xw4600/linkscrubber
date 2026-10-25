@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LinkScrubber</string>
+    <string name="no_link">No link found in the shared text.</string>
+    <string name="pick_link">Several links found. Tap one to scrub it.</string>
+    <string name="title_result">Scrubbed link</string>
+    <string name="no_query">No query string to remove.</string>
+    <string name="copied">Copied to clipboard</string>
+    <string name="btn_share">Share cleaned link</string>
+    <string name="btn_copy">Copy again</string>
+    <string name="btn_open">Open in browser</string>
+    <string name="btn_done">Done</string>
+    <string name="share_title">Share cleaned link</string>
+    <string name="no_browser">No browser available</string>
+</resources>
