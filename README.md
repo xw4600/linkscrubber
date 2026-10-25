@@ -1,6 +1,8 @@
 # LinkScrubber
 
-Android share-sheet target that strips the query string from a shared link and copies the cleaned URL to the clipboard. A few sites (YouTube, X, Amazon, Google Maps/Drive, Dropbox, Zoom) keep their identity parameters; see `app/src/main/java/com/linkscrubber/ScrubRules.java`.
+Simple Android app to remove the tracking data from shared links.  It aims to be simple and frictionless.  Under the hood, it's a share-sheet target that strips the query string from a shared link and copies the cleaned URL to the clipboard.  From there, share the clean link with to any installed app.  Free like freedom, and in this case also like beer.
+
+A few sites (YouTube, X, Amazon, Google Maps/Drive, Dropbox, Zoom) keep their identity parameters; see `app/src/main/java/com/linkscrubber/ScrubRules.java`.
 
 ## Build
 
